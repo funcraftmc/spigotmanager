@@ -1,0 +1,23 @@
+{
+  "name": "SpigotManager",
+  "description": "Manage your Spigot server in cli",
+  "version": "1.0.0",
+  "keywords": [
+    "util",
+    "functional",
+    "spigot",
+    "minecraft",
+    "manager",
+    "admin"
+  ],
+  "scripts": {
+    "start": "node main.js"
+  },
+  "author": "NewPlayer",
+  "contributors": [],
+  "dependencies": {
+    "commander": "^2.9.0",
+    "nconf": "^0.8.4",
+    "ps-node": "0.0.5"
+  }
+}
